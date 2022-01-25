@@ -6,4 +6,5 @@
 - 📫 You can contact me by mail: leadieudonat@gmail.com
 - 🌱 I’m currently learning Arduino, Guitar, Swedish & Skateboard
 - ⚡ Random nerd fact: Octopuses have three hearts. (Are you a big fan of octopus too? 🐙)
+- Please come and visit me: https://leaddn.github.io/portfolio/
 

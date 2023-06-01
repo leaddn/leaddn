@@ -1,7 +1,7 @@
 # Hello world, welcome to my galaxy 🌌
 
 - 🔭 I’m **Léa** and I talk with computers
-- Please visit [![me](https://leaddn.github.io/portfolio/)], find me on [![linkedin](@leadieudonat)] or contact me by [![mail](mailto:leadieudonat@gmail.com)]
+- Please visit [me](https://leaddn.github.io/portfolio/), find me on [linkedin](@leadieudonat) or contact me by [mail](mailto:leadieudonat@gmail.com)
 - 💬 Ask me about web development freelance missions, I’m looking to collaborate on front-end projects & back-end projects
 - 🌱 I’m currently learning Arduino, Guitar, Swedish & Skateboard
 

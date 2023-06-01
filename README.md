@@ -2,7 +2,7 @@
 
 - 🔭 I’m **Léa** and I talk with computers
 - Please visit [me](https://leaddn.github.io/portfolio/), find me on [linkedin](https://www.linkedin.com/in/lea-dieudonat) or contact me by [mail](mailto:leadieudonat@gmail.com)
-- 💬 Ask me about web development freelance missions, I’m looking to collaborate on front-end projects & back-end projects
+- 💬 Ask me about web development missions, I’m looking to collaborate on front-end projects & back-end projects
 
 ## Languages & Tools :
 
@@ -13,4 +13,4 @@
 
 - 🌱 I’m currently learning Arduino, Guitar, Swedish & Skateboard
 - Hobbies: Apero & finding the right Spotify playlist for my colleages
-- ⚡ Random nerd fact: Octopuses have three hearts. (Are you a big fan of octopus too? 🐙)
+- ⚡ Random nerd fact: Octopuses have three hearts. 🐙

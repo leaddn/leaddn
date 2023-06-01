@@ -5,7 +5,7 @@
 - 💬 Ask me about web development missions, I’m looking to collaborate on front-end projects & back-end projects
 
 ## Languages & Tools :
-
+[Symfony](https://symfony.com/), [PHP](https://www.php.net/), [Python](https://www.python.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [HTML/CSS](https://developer.mozilla.org/fr/docs/Web/HTML), [VSCode](https://code.visualstudio.com/), [MySQL](https://www.mysql.com/fr/), [GIT](https://git-scm.com/)
 
 ## Currently listening 🎧 :
 

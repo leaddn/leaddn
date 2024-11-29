@@ -1,7 +1,7 @@
 # Hello world, welcome to my galaxy 🌌
 
 - 🔭 I’m **Léa** and I talk with computers
-- Please visit [me](https://leaddn.github.io/portfolio/), find me on [linkedin](https://www.linkedin.com/in/lea-dieudonat) or contact me by [mail](mailto:leadieudonat@gmail.com)
+- Please find me on [linkedin](https://www.linkedin.com/in/lea-dieudonat) or contact me by [mail](mailto:leadieudonat@gmail.com)
 - 💬 Ask me about web development missions, I’m looking to collaborate on front-end projects & back-end projects
 
 ## Languages & Tools :
